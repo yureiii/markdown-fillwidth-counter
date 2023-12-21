@@ -1,0 +1,5 @@
+data/*
+
+# Python のバイナリファイルをすべて除外
+__pycache__/*
+*.pyc
